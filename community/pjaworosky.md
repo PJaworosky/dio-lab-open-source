@@ -13,7 +13,7 @@ Atualmente estou estudando e praticando:
 - 📁 **Git e GitHub** para versionamento e colaboração em projetos  
 - ☕ **C#** como minha primeira linguagem de programação  
 - 🧠 **Lógica de programação** para desenvolver pensamento computacional  
-- 🔓 Conhecimentos em **Open Source** por meio de desafios como os da [DIO](https://dio.me)
+
 
 ---
 
@@ -23,7 +23,7 @@ Atualmente estou estudando e praticando:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![DIO](https://img.shields.io/badge/DIO.me-0066CC?style=for-the-badge&logo=dio&logoColor=white)
+
 
 ---
 
